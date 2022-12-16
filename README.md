@@ -1,5 +1,5 @@
 # noveno_experimento_prueba_unitaria
-noveno_experimento_prueba_unitaria
+
 
 Se analizan las medidas de  10 dispositivos conectados a tres ozm's con pruebas  unitarias de 1 minuto por dispositivo. 
 
